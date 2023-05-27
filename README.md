@@ -7,3 +7,7 @@ email or not. We will examine commonly used words and phrases used in various ty
 emails and use this analysis to build our classification model. Successfully modeled, this can be
 implemented into emailing systems that will separate spam emails from the folder, helping
 recipients avoid these fraudulent activities.
+
+[Code](https://github.com/christinepugay/Spam_email_classification/blob/main/Spam_email_modeling.ipynb)
+
+[Presentation Slides](https://github.com/christinepugay/Spam_email_classification/blob/main/spam_filtering_presentation.pptx)
